@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am a 2nd year Undergraduate pursuing Computer Science Engineering with specialization in AIML. I am focused on building strong foundations in Programming languages, Data Structres. i enjoy applying what I learn through. An young mind with continuous learning and exploring real world opportunities !   
+I am a 2nd year Undergraduate pursuing Computer Science Engineering with specialization in AIML. I am focused on building strong foundations in Programming languages, Data Structres. I enjoy applying what I learn through. An young mind with continuous learning and exploring real world opportunities !   
 
 ---
 
