@@ -1,6 +1,6 @@
-<center>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME_!)](https://git.io/typing-svg)
-</center>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%20%20WELCOME_!)](https://git.io/typing-svg)
+
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+[Your Name]!;I+Build+Scalable+Software;Open+Source+Enthusiast" alt="Typing SVG" />
