@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20______________________________________WELCOME!____________________________________)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20______________________________________%20WELCOME!____________________________________%20)](https://git.io/typing-svg)
