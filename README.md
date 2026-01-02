@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JEYASREE_S_A)](https://git.io/typing-svg)
-
+<center>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME_!)](https://git.io/typing-svg)
+</center>
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+[Your Name]!;I+Build+Scalable+Software;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -7,24 +8,20 @@
   <h3>🚀 Full Stack Developer | Open Source Enthusiast</h3>
 
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/jeyasree-s-a-7aa6a835a/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://YOUR_PORTFOLIO.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
-    </a>
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+About Me
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[New Technology]**
-- 💬 Ask me about **React, Python, and System Design**
-- 📫 How to reach me: **[Your Email]**
+ I’m currently a B.E. graduate skilled in Python , C !
+ I’m currently learning Full Stack !
+ Ask me about DSA and OOPs !
+ Showcasing innovation through professional documentation and design !
 
 ---
 
