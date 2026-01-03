@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Hi,+Welcome%20To%20My%20Space!;I'm%20Jeyasree;AIML%20Undergraduate;Growing%20Through%20Learning;I%20am%20learning%20seriously%20and%20building%20consistently" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Hi,+Welcome%20To%20My%20Space!;I%20am%20Jeyasree;AIML%20Undergraduate;Growing%20Through%20Learning" alt="Typing SVG" />
 
   <h3>Computer Science Student | Aspiring Software Developer </h3>
 
